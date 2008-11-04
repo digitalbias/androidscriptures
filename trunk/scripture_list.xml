@@ -1,0 +1,10 @@
+<scriptures>
+  <scripture>
+    <title>KJV Holy Bible</title>
+    <location>http://androidscriptures.googlecode.com/files/bible.db</location>
+  </scripture>
+  <scripture>
+    <title>LDS Standard Works</title>
+    <location>http://androidscriptures.googlecode.com/files/lds.db</location>
+  </scripture>
+</scriptures>
