@@ -1,0 +1,1 @@
+This is the project that contains the source for the scriptures that will be downloaded by the Android Scripture application.
